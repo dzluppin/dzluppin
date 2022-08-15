@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dzluppin
 - 👀 I’m interested in Web and Mobile Apps Development
-- 🌱 I’m currently learning Data Science and Analytics
+- 🌱 Currently learning Data Science and Analytics
 <!--- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
